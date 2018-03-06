@@ -1,4 +1,4 @@
-var myPhone = "(+57) 310 550 2018";
+var myPhone = "(+57) 305 815 4748";
 
 $(function() {
 
